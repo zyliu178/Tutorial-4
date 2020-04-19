@@ -1,1 +1,2 @@
-I am creatin a conflict
+
+I have learnt create and resolve conflict
