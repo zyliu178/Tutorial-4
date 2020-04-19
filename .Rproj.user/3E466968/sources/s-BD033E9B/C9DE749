@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3973481597",
+    "hash" : "0",
     "id" : "C9DE749",
-    "lastKnownWriteTime" : 1587290183,
-    "last_content_update" : 1587290183818,
+    "lastKnownWriteTime" : 1587290203,
+    "last_content_update" : 1587290203477,
     "path" : "~/zyliu178/Tutorial-4/tutorial4.rmd",
     "project_path" : "tutorial4.rmd",
     "properties" : {
-        "cursorPosition" : "11,3",
+        "cursorPosition" : "10,42",
         "scrollLine" : "0"
     },
     "read_only" : false,
