@@ -1,4 +1,9 @@
 ---
-output: bookdown::html_document2
-keep_md: true
+title: 'Learning to reference figures, tables and sections'
+author: "zeyu"
+date: "Week 4"
+output: 
+  bookdown::html_document2
+keep_md: TRUE  
+
 ---
