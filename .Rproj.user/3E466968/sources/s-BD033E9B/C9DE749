@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587287924242.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3973481597",
+    "id" : "C9DE749",
+    "lastKnownWriteTime" : 1587290183,
+    "last_content_update" : 1587290183818,
+    "path" : "~/zyliu178/Tutorial-4/tutorial4.rmd",
+    "project_path" : "tutorial4.rmd",
+    "properties" : {
+        "cursorPosition" : "11,3",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
